@@ -23,4 +23,7 @@ python3 Models.py
 ## Author
 - ***Jiten Sinha*** - [LinkedIn](https://www.linkedin.com/in/jiten-sinha-131043159/)
 
+## License
+This project is based under MIT License.See [here](https://github.com/jitensinha98/Occupancy_Detection_using_ML/blob/master/LICENSE) for more information. 
+
 
