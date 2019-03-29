@@ -1,6 +1,6 @@
 # Occupancy Detection suing Machine-Learning Algorithms
 
-This repository contains the ML models to detect occupancy in a room by analysing parameters such as Temperature,Humidity,etc,.The testing accuracy of the models is greated than ***97%***.
+This repository contains the ML models to detect occupancy in a room by analysing parameters such as Temperature,Humidity,etc,.The testing accuracy of the models is greated than ***97%*** .
 
 ## Modules Used
 - Scikit-learn
